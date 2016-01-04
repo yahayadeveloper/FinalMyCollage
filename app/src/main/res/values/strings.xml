@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalMyCollage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+
+
+</resources>
